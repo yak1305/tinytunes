@@ -13,9 +13,9 @@ It is a API based web application that basically allows users to search for musi
 2) Play Previews : Listen to 30-second previews of songs.
 
 3) Playback Controls : 
-       - Play/Pause : Control song playback.
-       - Volume Adjustment : Increase or decrease volume.
-       - Playback Speed : Adjust playback speed.
+     - Play/Pause : Control song playback.
+     - Volume Adjustment : Increase or decrease volume.
+     - Playback Speed : Adjust playback speed.
 
 4) Favorite Tracks : Pin songs and add them to a personalized favorites list.
 
