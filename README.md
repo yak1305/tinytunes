@@ -7,14 +7,15 @@ It is a API based web application that basically allows users to search for musi
 -> Features
 
 
+
 1) Search Music : Find tracks, albums, and artists using Spotify's search functionality.
 
 2) Play Previews : Listen to 30-second previews of songs.
 
 3) Playback Controls : 
-  - Play/Pause : Control song playback.
-  - Volume Adjustment : Increase or decrease volume.
-  - Playback Speed : Adjust playback speed.
+       - Play/Pause : Control song playback.
+       - Volume Adjustment : Increase or decrease volume.
+       - Playback Speed : Adjust playback speed.
 
 4) Favorite Tracks : Pin songs and add them to a personalized favorites list.
 
@@ -23,7 +24,9 @@ It is a API based web application that basically allows users to search for musi
 6) Responsive Design : Optimized for both desktop and mobile devices.
 
 
+
 -> Technologies Used
+
 
 
 1) ReactJS: For building the user interface.
