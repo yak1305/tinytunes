@@ -122,7 +122,7 @@ function App() {
               className="btn btn-outline-success w-100"
               disabled={resultOffset === 0}
             >
-              Previous Next Page: {resultOffset / 20}
+              Previous Page: {resultOffset / 20}
             </button>
           </div>
           <div className="col">
@@ -146,18 +146,11 @@ function App() {
           <div className="col-12 py-5 text-center">
             <h1>
               <i className="bi bi-music-note-list mx-3"></i>
-              v-music
+              tinytunes
             </h1>
             <h3 className="py-5">Discover music in 30 seconds</h3>
             <div>
-              <a
-                target="_blank"
-                rel="noreferrer"
-                className="btn btn-outline-dark"
-                href="https://github.com/Vishesh-Pandey/v-music"
-              >
-                <i className="bi bi-github mx-2"></i>Github
-              </a>
+              
             </div>
           </div>
         </div>
